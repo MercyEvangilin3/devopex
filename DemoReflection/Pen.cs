@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using DemoReflection;
 //This is git demo
-namespace CollectionDemo
+namespace CollectionDemo //in master we have done 
 {
     [Info (Name ="Tom",Age = 25)]
     [Info (Name = "dhs",Age =24)]
