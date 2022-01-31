@@ -1,0 +1,7 @@
+D:\NETTRAINING\DemoReflection\DemoReflection\bin\Debug\DemoReflection.exe.config
+D:\NETTRAINING\DemoReflection\DemoReflection\bin\Debug\DemoReflection.exe
+D:\NETTRAINING\DemoReflection\DemoReflection\bin\Debug\DemoReflection.pdb
+D:\NETTRAINING\DemoReflection\DemoReflection\obj\Debug\DemoReflection.csproj.AssemblyReference.cache
+D:\NETTRAINING\DemoReflection\DemoReflection\obj\Debug\DemoReflection.csproj.CoreCompileInputs.cache
+D:\NETTRAINING\DemoReflection\DemoReflection\obj\Debug\DemoReflection.exe
+D:\NETTRAINING\DemoReflection\DemoReflection\obj\Debug\DemoReflection.pdb
